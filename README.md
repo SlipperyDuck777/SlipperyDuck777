@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SlipperyDuck777
 - 👀 I’m interested in ... Digital Marketing, Operating Systems, Web Design.
-- 🌱 I’m currently learning ... C#, Python
-- 💞️ I’m looking to collaborate on ... Nothing At The Moment Just Learning
+- 🌱 I’m currently learning ... C#, Python, HTML, CSS, JavaScript, V, MATLAB, J#, XML. PHP.
+- 💞️ I’m looking to collaborate on ... Anything, DM me if interested.
 - 📫 How to reach me ... Discord SlipperyDuck#4096
 
 <!---
