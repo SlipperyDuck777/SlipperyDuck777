@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @SlipperyDuck777
-- 👀 I’m interested in ... Digital Marketing, Operating Systems, Web Design.
-- 🌱 I’m currently learning ... C#, Python, HTML, CSS, JavaScript, V, MATLAB, J#, XML. PHP.
-- 💞️ I’m looking to collaborate on ... Anything, DM me if interested.
-- 📫 How to reach me ... Discord SlipperyDuck#7777
+<h1>Hi 👋</h1>
 
-<!---
-SlipperyDuck777/SlipperyDuck777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### <div>I'm SlipperyDuck777, I am learning frontend development.</div>  
+  
+### 👨🏻‍💻 &nbsp;About Me
+
+- 🔭 I’m currently working on [Chem++ Website](chemplusplus.github.io)  
+  
+
+- 🌱 I’m currently trying to learn PHP, and JavaScript  
+
+
+### 🛠 &nbsp;Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
+
+
+### ⚙️ &nbsp;GitHub Analytics
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=slipperyduck777)](https://github.com/anuraghazra/github-readme-stats)
+
+
