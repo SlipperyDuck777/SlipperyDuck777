@@ -4,7 +4,7 @@
   
 ### 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on [Chem++ Website](chemplusplus.github.io)  
+- 🔭 I’m currently working on [Chem++ Website](chemplusplus.github.io) and another project you will see soon!
   
 
 - 🌱 I'm currently learning Bootstrap CSS
