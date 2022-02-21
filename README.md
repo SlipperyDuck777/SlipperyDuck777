@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on [Chem++ Website](chemplusplus.github.io)  
   
 
-- 🌱 I'm currently learning C#, Python, HTML, CSS, JavaScript, V, MATLAB, J#, XML. PHP.
+- 🌱 I'm currently learning Bootstrap CSS
 
 
 ### 🛠 &nbsp;Tech Stack
